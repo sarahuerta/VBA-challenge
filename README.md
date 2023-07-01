@@ -1,4 +1,8 @@
 # VBA-challenge
+I tired uploading the file but it said it was to large. i tired looking it up i didnt know how to do it. i was just confusing myslef.
+
+
+
 Sub Stock_Market():
 
  Dim Ticker As String
